@@ -126,15 +126,12 @@ footer {
 .cent {
 }
 .button {
-    border-radius: 15px;
+    border-radius: 25
+		px;
 }
-.text-center {
-}
-.b_logo {
-
-}
-.rounded {
-}
+.container {text-align: center}
 .profile {
 border-radius: 50%
+}
+#option {
 }
