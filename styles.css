@@ -131,7 +131,7 @@ border-radius: 50%
 }
 .video{display: block;
 margin: 0 auto;}
-.video-center {border-radius: 0px;
+.video-center {
 	 margin-left: 265px;
     margin-right: auto;
 }
