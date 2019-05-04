@@ -105,7 +105,7 @@ h2 {
 
 footer {
     background-color: #FF3B3F;
-    border-radius: 25px;
+   
     margin-left: 40px;
     margin-right: 40px;
     width: 200px;
@@ -119,12 +119,6 @@ footer {
 .left {
     border-radius: 125px;
 }
-.fluid {
-}
-.container-fluid {
-}
-.cent {
-}
 .button {
     border-radius: 25
 		px;
@@ -135,3 +129,5 @@ border-radius: 50%
 }
 #option {
 }
+.video{display: block;
+margin: 0 auto;}
